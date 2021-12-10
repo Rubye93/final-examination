@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Alarm</string>
+    <string name="Button">button</string>
+    <string name="button_time_picker">button time picker</string>
+    <string name="set_time">set time</string>
+    <string name="stop_alarm">Stop alarm</string>
+    <string name="set_alarm">Set time</string>
+    <string name="navigation_item_one">Alarm</string>
+    <string name="navigation_item_two">Whose job</string>
+    <string name="choose_item">Hello</string>
+    <string name="title_activity_main2">MainActivity2</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="qwe">qwe</string>
+    <string name="page_one">page 1</string>
+    <string name="developers">Developers</string>
+    <string name="just_see_our_website">developers</string>
+    <string name="choose_date">Choose date</string>
+    <string name="click">Click</string>/>
+</resources>
